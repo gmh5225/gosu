@@ -1,6 +1,6 @@
 module github.com/can1357/gosu
 
-go 1.21.5
+go 1.21
 
 require (
 	github.com/Microsoft/go-winio v0.6.1
